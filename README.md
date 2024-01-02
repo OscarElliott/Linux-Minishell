@@ -48,4 +48,4 @@ Copy a file or directory
 - [Oscar Elliott](https://github.com/OscarElliott)
 
 ## Liscence 
-This project is MIT licensed. View full [License](./License)
+This project is MIT licensed. View full [License](https://en.wikipedia.org/wiki/MIT_License)

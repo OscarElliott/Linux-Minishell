@@ -1,5 +1,5 @@
-# Linux-Minishell
-Minishell is a simple UNIX shell implemented in C, providing basic command-line functionality and supporting background execution, file operations (delete, rename, copy).
+# Linux-Shell
+Libux-Shell is a simple UNIX shell implemented in C, providing basic command-line functionality and supporting background execution, file operations (delete, rename, copy).
 
 
 ## Features

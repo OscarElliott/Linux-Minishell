@@ -45,7 +45,7 @@ Copy a file or directory
 
 ## Contributors
 
-- [Your Name](https://github.com/OscarElliott)
+- [Oscar Elliott](https://github.com/OscarElliott)
 
 ## Liscence 
 This project is MIT licensed. View full [License](./License)

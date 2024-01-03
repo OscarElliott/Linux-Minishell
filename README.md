@@ -1,4 +1,6 @@
 # Linux-Shell
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 Linux-Shell is a simple UNIX shell implemented in C, providing basic command-line functionality and supporting background execution, file operations (delete, rename, copy).
 
 
